@@ -1,7 +1,7 @@
 # SwipeView
 
-Library to build your own swipe out item views. this examples are only taken **5 minutes** each.
-Have a look at demos app available on google play: <https://play.google.com/apps/testing/apps.xenione.com.swipelayout>
+This is a library to build your own swipe out item views. It takes only **5 minutes** to program the examples below.
+Have a look at the demo app available on google play: <https://play.google.com/apps/testing/apps.xenione.com.swipelayout>
 
 ## Example of **Both Side Swipe**
 
@@ -17,7 +17,7 @@ Have a look at demos app available on google play: <https://play.google.com/apps
 
 ### Are you ready? I show you how:
 
-Let's do it that one (Right Side Swipe):
+Let's do this one (Right Side Swipe):
 
 ![screenshoot](https://cloud.githubusercontent.com/assets/4138527/14615699/3c94e41a-05a7-11e6-8cca-4e97219d63b9.png)
 
